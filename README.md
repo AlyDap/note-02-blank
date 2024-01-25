@@ -1,5 +1,5 @@
 # Deskripsi
-### Versi 2, belum bisa update data, untuk edit perubahan pakai versi 3 saja
+### Versi 2 blank, belum bisa update data, untuk edit perubahan pakai versi 3 saja
 
 ## Instalation
 ### npm i
